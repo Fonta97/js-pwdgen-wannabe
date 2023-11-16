@@ -9,4 +9,4 @@ let passwordSpeciale = userName + userSurname + favColor + 23;
 
 console.log(passwordSpeciale)
 
-document.getElementById("password_finale").innerHTML = "Ecco la tua password super sicura:" + passwordSpeciale
+document.getElementById("password_finale").innerHTML = "Ecco la tua password super sicura:" + passwordSpeciale;
